@@ -1,0 +1,6 @@
+{
+  "name": "auto-model",
+  "version": "0.1.0",
+  "description": "Routes each prompt to Haiku, Sonnet or Opus based on how hard it looks",
+  "author": { "name": "Ecosys Technology" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "auto-model",
+  "owner": { "name": "Ecosys Technology" },
+  "description": "Claude Code mod that routes each prompt to Haiku, Sonnet or Opus",
+  "plugins": [{ "name": "auto-model", "source": "./" }]
+}
